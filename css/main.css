@@ -33,7 +33,7 @@ header h1{
 section{
     max-width: 120rem;
     margin: 5rem auto;
-    border: solid .1rem #ccc;
+    background: #fafafa;
 }
 section img{
     display: inline-block;
